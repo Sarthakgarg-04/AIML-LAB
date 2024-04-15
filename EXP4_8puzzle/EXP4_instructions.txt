@@ -1,0 +1,1 @@
+GUI Game for 8 puzzle proble, count the number of steps taken to achieve the goal state and display when goal state is achieved.
