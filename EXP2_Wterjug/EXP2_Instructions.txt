@@ -1,0 +1,5 @@
+GUI based application.
+
+Count the number of moves as well 
+At the end when the objective is acheived - display a success message along with the numbere of moves used
+Create a button for an option to view the moves for an optimal solution.
