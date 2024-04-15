@@ -1,0 +1,2 @@
+Create a GUI based Tic Tac Toe AI Game , using Best First Search approach.
+Count hte number of moves used in the game which will be displayed at the end of the game.
