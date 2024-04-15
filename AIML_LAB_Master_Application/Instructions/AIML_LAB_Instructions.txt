@@ -1,0 +1,6 @@
+Develop a GUI interface for the experiments/AI games, and integrate all AI Games into a single GUI application for final submission.
+
+on LHS of screen the approximate 12 experiments (Games) will have their own indivisual buttons, upon selecting a button the description of the experiment should be visible.
+a buttton - conduct experiment should run the selected experiment
+
+in case the run experiment button is clicked without selecting an experiment, an error window should be displayed.
